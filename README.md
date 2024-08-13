@@ -1,6 +1,6 @@
 # 🎉 Mi cuarto trabajo práctico de Js 🎉
 
-Este es mi primer trabajo practico de Js con ejercicios de operaciones condicionales. Fue un poco complejo al principio pero despues se le agarra la mano.
+Este es mi cuarto trabajo practico de Js con ejercicios de operaciones Objeto y clases. Pude progresar mucho, al principio no entendia
 
 ## Sobre JavaScript (Js)
 JavaScript es un lenguaje de programación ampliamente utilizado para crear y controlar contenido dinámico en las páginas web. Fue desarrollado originalmente por Netscape como un medio para agregar programas a las páginas web en el navegador Netscape Navigator. Hoy en día, es un componente esencial de la mayoría de los sitios web y es compatible con todos los navegadores modernos.
